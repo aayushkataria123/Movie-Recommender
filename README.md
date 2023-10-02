@@ -1,8 +1,6 @@
 # Movie-Recommender
 
-![image](https://github.com/aayushkataria123/Movie-Recommender/assets/137820574/6e3ef19a-7444-4122-b0b5-5774e12ae81d)
-
-
+![269458670-d63db2b8-94a0-448c-8020-2f797d7cc318](https://github.com/aayushkataria123/Movie-Recommender/assets/137820574/d328f75a-1d20-48c9-ba3d-747b70e8e0dc)
 
 
 
